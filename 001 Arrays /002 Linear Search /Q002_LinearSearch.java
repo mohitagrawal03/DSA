@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lec10_array_LinearSearch{
+public class Q002_LinearSearch {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the length of an Array: ");
